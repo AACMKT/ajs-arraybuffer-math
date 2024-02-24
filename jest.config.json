@@ -1,0 +1,4 @@
+{
+    "verbose": true,
+    "coveragePathIgnorePatterns": ["./src/js/models/index.js"]
+  }
