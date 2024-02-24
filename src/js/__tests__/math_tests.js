@@ -19,7 +19,7 @@ test.each([
   [2, 90],
   [3, 80],
   [4, 70],
-  [11, 0]])('', (cell, attack) => {
+  [11, 0]])('Subclasses attack efficiency (without stone) test', (cell, attack) => {
   const magician = new Magician('Some name');
   const daemon = new Daemon('Some name');
   magician.stoned = true;
@@ -41,7 +41,7 @@ test.each([
   [1, true],
   [42, true],
   ['some text', true],
-])('', (input, output) => {
+])('Subclasses "stoned" value input test', (input, output) => {
   const magician = new Magician('Some name');
   const daemon = new Daemon('Some name');
   magician.stoned = input;

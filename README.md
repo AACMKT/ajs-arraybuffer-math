@@ -1,6 +1,6 @@
 # Recalculation of class attributes by condition, using Math()
 ---
-[![Build status](https://ci.appveyor.com/api/projects/status/krgxo347d2mtaw1g?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-containers-map)
+[![Build status](https://ci.appveyor.com/api/projects/status/9yqus4nlnhtmjvn9?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-arraybuffer-math)
 
 
 
